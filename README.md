@@ -10,8 +10,8 @@
 
 # Demo
 </br> Link  : http://saw-azzam.banua.xyz
-</br> Login : Username : admin
-              Password : admin
+</br> Username : admin
+</br> Password : admin
 # ScreenShot
 </br><b>Menu Login</b>
 </br><img src="https://github.com/hazzama98/WP_Cafe/blob/master/1.png?raw=true" width="700">
