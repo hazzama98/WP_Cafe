@@ -1,5 +1,5 @@
 # WP_Cafe
-</br>Jual Script Sistem Penunjang Keputusan (SPK) dengan metode SAW dan WP
+</br>Script Sistem Penunjang Keputusan (SPK) dengan metode SAW dan WP
 </br>Untuk Script PHP Bisa Download di "conf.zip"
 </br>
 # Contact Us
@@ -17,5 +17,5 @@
 </br><b>Menu Report SAW</b>
 </br><img src="https://github.com/hazzama98/WP_Cafe/blob/master/4.png?raw=true" width="500">
 </br><b>Menu Report WP</b>
-<img src="https://github.com/hazzama98/WP_Cafe/blob/master/5.png?raw=true" width="500">
+</br><img src="https://github.com/hazzama98/WP_Cafe/blob/master/5.png?raw=true" width="500">
 
